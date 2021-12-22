@@ -1,11 +1,7 @@
 package br.com.guima.ecommerce;
 
-import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
-import org.apache.kafka.common.serialization.StringDeserializer;
-
 import java.util.Map;
-import java.util.Properties;
 
 public class FraudDetectorService {
     public static void main(String[] args) {
