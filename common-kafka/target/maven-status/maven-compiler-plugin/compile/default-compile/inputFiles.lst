@@ -1,0 +1,6 @@
+/home/gabriel/IdeaProjects/ecommerce/common-kafka/src/main/java/br/com/guima/ecommerce/ConsumerFunction.java
+/home/gabriel/IdeaProjects/ecommerce/common-kafka/src/main/java/br/com/guima/ecommerce/Email.java
+/home/gabriel/IdeaProjects/ecommerce/common-kafka/src/main/java/br/com/guima/ecommerce/GsonSerializer.java
+/home/gabriel/IdeaProjects/ecommerce/common-kafka/src/main/java/br/com/guima/ecommerce/KafkaDispatcher.java
+/home/gabriel/IdeaProjects/ecommerce/common-kafka/src/main/java/br/com/guima/ecommerce/KafkaService.java
+/home/gabriel/IdeaProjects/ecommerce/common-kafka/src/main/java/br/com/guima/ecommerce/GsonDeserializer.java
